@@ -1,0 +1,176 @@
+{
+    "questions":[
+        {
+        "questionText" : "What is a Verb",
+        "options" : [{
+            "text": "an action word",
+            "correct" : true
+                  },
+                {
+                    "text" : "a smiley"
+                },
+            {
+                "text" : "a metaphor"
+            },
+            {
+                "text":"a French doctor"
+            }],
+            "explanation": "A verb is an action word or a doing words"
+        },
+        {
+            "questionText" : "What is a Noun",
+            "options" : [{
+                "text": "a name of place or object",
+                "correct" : true
+                      },
+                    {
+                        "text" : "a smiley"
+                    },
+                {
+                    "text" : "a metaphor"
+                },
+                {
+                    "text":"a French doctor"
+                }],
+                "explanation": "A verb is an action word or a doing words"
+        },
+        {
+            "questionText" : "What is a preposition",
+            "options" : [{
+                "text": "an action preposition",
+                "correct" : true
+                      },
+                    {
+                        "text" : "a proposition"
+                    },
+                {
+                    "text" : "a metaphor"
+                },
+                {
+                    "text":"a French doctor"
+                }],
+                "explanation": "A verb is an action word or a doing words"
+        },
+        {
+            "questionText" : "What is a smiley",
+            "options" : [{
+                "text": "an action word",
+                "correct" : true
+                      },
+                    {
+                        "text" : "a smiley"
+                    },
+                {
+                    "text" : "a metaphor"
+                },
+                {
+                    "text":"a French doctor"
+                }],
+                "explanation": "A verb is an action word or a doing words"
+            },
+            {
+                "questionText" : "What is a adverb",
+                "options" : [{
+                    "text": "an action word",
+                    "correct" : true
+                          },
+                        {
+                            "text" : "a smiley"
+                        },
+                    {
+                        "text" : "a metaphor"
+                    },
+                    {
+                        "text":"a French doctor"
+                    }],
+                    "explanation": "A verb is an action word or a doing words"
+                },
+                {
+                    "questionText" : "What is a roman numerals",
+                    "options" : [{
+                        "text": "an action word",
+                        "correct" : true
+                              },
+                            {
+                                "text" : "a smiley"
+                            },
+                        {
+                            "text" : "a metaphor"
+                        },
+                        {
+                            "text":"a French doctor"
+                        }],
+                        "explanation": "A verb is an action word or a doing words"
+                    },
+                    {
+                        "questionText" : "What is a continents",
+                        "options" : [{
+                            "text": "an action word",
+                            "correct" : true
+                                  },
+                                {
+                                    "text" : "a smiley"
+                                },
+                            {
+                                "text" : "a metaphor"
+                            },
+                            {
+                                "text":"a French doctor"
+                            }],
+                            "explanation": "A verb is an action word or a doing words"
+                        },
+                        {
+                            "questionText" : "What is a DataLog",
+                            "options" : [{
+                                "text": "an action word",
+                                "correct" : true
+                                      },
+                                    {
+                                        "text" : "a smiley"
+                                    },
+                                {
+                                    "text" : "a metaphor"
+                                },
+                                {
+                                    "text":"a French doctor"
+                                }],
+                                "explanation": "A verb is an action word or a doing words"
+                            },
+                            {
+                                "questionText" : "What is a computer system",
+                                "options" : [{
+                                    "text": "an action word",
+                                    "correct" : true
+                                          },
+                                        {
+                                            "text" : "a smiley"
+                                        },
+                                    {
+                                        "text" : "a metaphor"
+                                    },
+                                    {
+                                        "text":"a French doctor"
+                                    }],
+                                    "explanation": "A verb is an action word or a doing words"
+                                },
+                                {
+                                    "questionText" : "What is a data algorithm",
+                                    "options" : [{
+                                        "text": "an action word",
+                                        "correct" : true
+                                              },
+                                            {
+                                                "text" : "a smiley"
+                                            },
+                                        {
+                                            "text" : "a metaphor"
+                                        },
+                                        {
+                                            "text":"a French doctor"
+                                        }],
+                                        "explanation": "A verb is an action word or a doing words"
+                                    }
+    ]
+
+
+}
